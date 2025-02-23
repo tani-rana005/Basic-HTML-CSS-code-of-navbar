@@ -1,0 +1,41 @@
+*{
+    margin: 0%;
+    text-decoration: none;
+
+}
+.navmain{
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    padding-right: 15px;
+    padding-left: 15px;
+    
+}
+.navbar{
+    display:flex;
+    align-items:center;
+    justify-content: space-between;}
+li{
+    list-style: none;
+    display:inline-block;
+
+}
+li a{
+    color:blue;
+    font-size: 18px;
+    font-weight: 900;
+    margin-right: 25px;
+
+
+}
+button{
+    background-color: rgb(35, 35, 148);
+    margin-left: 10px;
+    border-radius: 20px;
+    padding: 10px;
+    width: 80px;
+    color: white;
+    font-weight: 700;
+
+
+}
+
